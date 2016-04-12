@@ -1,0 +1,1 @@
+This code was moved to [github](https://github.com/manolo/shell2junit)
